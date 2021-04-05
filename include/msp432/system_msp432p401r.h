@@ -89,4 +89,3 @@ extern void SystemCoreClockUpdate (void);
 #endif
 
 #endif /* SYSTEM_MSP432P401R_H */
-
