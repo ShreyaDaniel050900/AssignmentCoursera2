@@ -31,7 +31,6 @@
    POSSIBILITY OF SUCH DAMAGE.
    ---------------------------------------------------------------------------*/
 
-
 #ifndef __CMSIS_GCC_H
 #define __CMSIS_GCC_H
 
