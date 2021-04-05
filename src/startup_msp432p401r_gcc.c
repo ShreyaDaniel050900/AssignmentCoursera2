@@ -178,4 +178,3 @@ void (* const interruptVectors[])(void) __attribute__ ((section (".intvecs"))) =
     0,                                      /* Reserved 62               */
     0,                                      /* Reserved 63               */
 };
-
