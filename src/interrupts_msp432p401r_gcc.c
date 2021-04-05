@@ -226,4 +226,3 @@ __attribute__((weak,alias("Default_Handler")))
 void PORT5_IRQHandler(void);
 __attribute__((weak,alias("Default_Handler")))
 void PORT6_IRQHandler(void);
-
